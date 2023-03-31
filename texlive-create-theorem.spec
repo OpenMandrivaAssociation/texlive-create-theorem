@@ -1,6 +1,6 @@
 Name:		texlive-create-theorem
 Version:	64104
-Release:	1
+Release:	2
 Summary:	Multilingual support for theorem-like environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/create-theorem
