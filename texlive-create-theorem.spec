@@ -1,5 +1,5 @@
 Name:		texlive-create-theorem
-Version:	67712
+Version:	70180
 Release:	1
 Summary:	Multilingual support for theorem-like environments
 Group:		Publishing
