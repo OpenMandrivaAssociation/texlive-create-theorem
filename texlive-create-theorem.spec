@@ -3,7 +3,7 @@ Version:	70180
 Release:	1
 Summary:	Multilingual support for theorem-like environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/create-theorem
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/create-theorem
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/create-theorem.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/create-theorem.doc.r%{version}.tar.xz
